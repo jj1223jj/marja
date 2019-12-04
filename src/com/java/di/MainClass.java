@@ -19,7 +19,7 @@ public class MainClass {
 		
 		Su appSu = (Su)ctx.getBean("su");
 		appSu.disp();
-		System.out.println("ggg");
+		System.out.println("kiyongSi");
 
 		ctx.close();
 	}
